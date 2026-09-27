@@ -1,0 +1,44 @@
+title: Notebook — Politics
+description: >-
+  Public notes on politics — analysis, things I'm reading, and ideas I'm
+  working through. Part of a personal notebook; other topics stay private.
+
+# TODO before first deploy: set these to match where this repo actually lives.
+url: "https://rangeeth.github.io"
+baseurl: "/notebook-site"
+
+theme: just-the-docs
+
+# --- Just the Docs settings ---
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+nav_sort: case_insensitive
+nav_external_links:
+  opacity: 0.7
+
+footer_content: >-
+  Personal notes, not professional or organizational advice. Views are my
+  own and may change as I learn more.
+
+callouts_level: quiet
+callouts:
+  note:
+    title: Note
+    color: blue
+  caution:
+    title: Caution
+    color: yellow
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - node_modules/

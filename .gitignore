@@ -1,0 +1,10 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
