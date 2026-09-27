@@ -43,6 +43,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Limit auto-generated {:toc} blocks to H1-H3, so long pages (e.g. the UDF
+# controversies timeline) get a "jump to section" list of months, not every
+# individual entry.
+kramdown:
+  toc_levels: 1..3
+
 exclude:
   - Gemfile
   - Gemfile.lock
