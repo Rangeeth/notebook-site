@@ -20,6 +20,15 @@ script, then commit and push here.
 5. Push to `main` — the "Deploy Jekyll site to Pages" workflow builds and
    publishes the site automatically.
 
+## Styling
+
+Custom look (Inter/JetBrains Mono fonts, a custom color scheme, an emoji
+favicon, and the homepage topic-card grid) lives in
+[`_sass/color_schemes/slate.scss`](_sass/color_schemes/slate.scss),
+[`_sass/custom/custom.scss`](_sass/custom/custom.scss), and
+[`_includes/head_custom.html`](_includes/head_custom.html) — these are
+Just the Docs' documented customization hooks, auto-loaded by the theme.
+
 ## Local preview (optional)
 
 ```bash

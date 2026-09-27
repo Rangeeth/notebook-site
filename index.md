@@ -1,12 +1,20 @@
 ---
 title: Home
 nav_order: 1
+description: "A curated, public counterpart to a private personal notebook."
 ---
 
 # Notebook
 
-This is the published section of a personal notebook — notes worth sharing,
-kept separately from the private working notes they're drawn from.
+A curated, public counterpart to a private personal notebook — the notes
+worth sharing, published separately from day-to-day working notes.
 
-Right now that's just [Politics](politics/){: .btn .btn-blue }, with more
-topics added here as they're ready to publish.
+<div class="topic-grid">
+  <a class="topic-card" href="{{ '/politics/' | relative_url }}">
+    <span class="topic-card-icon">🗳️</span>
+    <span class="topic-card-title">Politics</span>
+    <span class="topic-card-desc">Political developments, policy, and things I'm thinking through.</span>
+  </a>
+</div>
+
+More topics will appear here as they're ready to publish.

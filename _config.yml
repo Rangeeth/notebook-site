@@ -1,17 +1,24 @@
-title: Notebook — Politics
+title: Notebook
 description: >-
-  Public notes on politics — analysis, things I'm reading, and ideas I'm
-  working through. Part of a personal notebook; other topics stay private.
+  A curated, public counterpart to a private personal notebook — selected
+  topics only, published as they're ready.
 
-# TODO before first deploy: set these to match where this repo actually lives.
 url: "https://rangeeth.github.io"
 baseurl: "/notebook-site"
 
 theme: just-the-docs
 
 # --- Just the Docs settings ---
-color_scheme: light
+color_scheme: slate
 search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
 heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
