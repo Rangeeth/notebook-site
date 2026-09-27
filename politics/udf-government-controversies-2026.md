@@ -1,4 +1,4 @@
-﻿---
+---
 title: UDF Government Controversies — Kerala (2026)
 parent: Politics
 nav_order: 1
