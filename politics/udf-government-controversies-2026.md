@@ -2,7 +2,7 @@
 layout: default
 title: UDF Government Controversies — Kerala (2026)
 parent: Politics
-nav_order: 1
+nav_order: 2
 ---
 # UDF Government Controversies — Kerala (2026)
 {: .no_toc }
@@ -310,7 +310,7 @@ but denied they were part of any official social media cell.
 {: .note }
 Operation Toofan itself — the wider anti-narcotics drive this arrest came
 out of — is tracked separately as entry #1 in
-[UDF Government Achievements](udf-government-achievements-2026.md).
+[UDF Government Achievements](udf-government-achievements-2026.html).
 
 **Sources:**
 - [CPI(M) accuses Kerala CM V.D. Satheesan of making false claims on MDMA case accused (The Hindu)](https://www.thehindu.com/news/national/kerala/cpim-accuses-kerala-cm-vd-satheesan-of-making-false-claims-on-mdma-case-accused/article71341572.ece)

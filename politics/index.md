@@ -13,3 +13,4 @@ expect them to be revised as my understanding changes.
 
 Notes:
 - [UDF Government Controversies — Kerala (2026)](udf-government-controversies-2026.html)
+- [UDF Government Achievements — Kerala (2026)](udf-government-achievements-2026.html)
