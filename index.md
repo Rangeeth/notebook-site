@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Home
 nav_order: 1
 description: "A curated, public counterpart to a private personal notebook."
