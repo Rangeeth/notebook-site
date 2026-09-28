@@ -81,30 +81,71 @@ code,
   color: #6b7280;
 }
 
-// Long entry-list pages (e.g. the UDF controversies timeline): give each
-// h4 entry breathing room and a subtle divider instead of running text.
-.main-content h4 {
-  margin-top: 2.25rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid $border-color;
+// Entry cards (see scripts/sync-politics.ps1 in the notebook repo — each
+// "#### N. Title" entry gets auto-wrapped in <div class="entry-card"> on
+// sync, so long entry-list pages read as cards instead of running text).
+.entry-card {
+  border: 1px solid $border-color;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem 1.4rem;
+  margin: 1.75rem 0;
+  background: $body-background-color;
+  box-shadow: 0 1px 3px rgba(20, 22, 31, 0.05);
 }
 
-.main-content h3 + h4 {
-  border-top: none;
-  padding-top: 0;
+.entry-card > h4:first-child {
+  margin-top: 0;
 }
 
-// The italic "*Month 2026*" line right under an h4 acts as metadata, not
-// body copy — de-emphasize it.
-.main-content h4 + p em:only-child {
+// The italic "*Month 2026*" line right under the heading acts as a date
+// badge, not body copy.
+.entry-card > p:first-of-type em:only-child {
   display: inline-block;
   font-style: normal;
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #6b7280;
-  margin-top: 0.15rem;
+  color: $link-color;
+  background: #eef1fc;
+  padding: 3px 10px;
+  border-radius: 999px;
+  margin: 0.1rem 0 0.75rem;
+}
+
+// A "Sources:"/"Source:" list (a bold-only paragraph followed by a <ul>)
+// renders as pill/chip links. Any other bullet list in an entry (e.g. the
+// legal/statute breakdown, where the bold lead-in shares a paragraph with
+// more text) is left as a normal list — :has() tells them apart without
+// needing any markup changes in the source note.
+.entry-card p:has(> strong:only-child) + ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.6rem 0 0;
+}
+
+.entry-card p:has(> strong:only-child) + ul li {
+  margin: 0;
+}
+
+.entry-card p:has(> strong:only-child) + ul li a {
+  display: inline-block;
+  background: $sidebar-color;
+  color: $link-color;
+  font-size: 0.78rem;
+  padding: 4px 12px;
+  border-radius: 999px;
+  text-decoration: none !important;
+  border: 1px solid $border-color;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.entry-card p:has(> strong:only-child) + ul li a:hover {
+  background: #eef1fc;
+  border-color: $link-color;
 }
 
 // Auto-generated {:toc} block

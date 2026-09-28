@@ -25,6 +25,9 @@ Last updated 2026-09-27.
 
 ### May 2026
 
+
+<div class="entry-card" markdown="1">
+
 #### 1. Pre-result Mangalore chartered flight row
 
 *Early May 2026*
@@ -35,6 +38,11 @@ for undisclosed meetings with senior NDA and Adani Group figures, prompting
 collusion accusations.
 
 **Source:** [UDF faces criticism over ministers' alleged foreign junkets, Keralam CM's private-plane travel (The Hindu)](https://www.thehindu.com/news/national/kerala/udf-faces-criticism-over-ministers-alleged-foreign-junkets-keralam-cms-private-plane-travel/article71494511.ece)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 2. Cabinet formation & regional imbalance row
 
@@ -47,7 +55,13 @@ protested the lack of a coastal-community representative in cabinet.
 
 **Source:** [New Kerala cabinet: UDF portfolio talks run into headwinds as allies grow restive (The Hindu)](https://www.thehindu.com/news/national/kerala/new-kerala-cabinet-udf-portfolio-talks-run-into-headwinds-as-allies-grow-restive/article70996642.ece)
 
+
+</div>
+
 ### June 2026
+
+
+<div class="entry-card" markdown="1">
 
 #### 3. K.B. Pradeep special pleader resignation
 
@@ -62,6 +76,11 @@ within days.
 
 **Source:** [Sabarimala gold scam row: Devaswom Special Pleader K.B. Pradeep resigns (The News Minute)](https://www.thenewsminute.com/kerala/sabarimala-gold-scam-row-devaswom-special-pleader-kb-pradeep-resigns)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 4. PM-SHRI education scheme U-turn
 
 *June 2026*
@@ -72,6 +91,11 @@ the reversal, noting only about a year remained on the scheme's original
 2027 timeline.
 
 **Source:** [Why is UDF government's stance on PM-SHRI debated in Kerala? Explained (The Hindu)](https://www.thehindu.com/news/national/kerala/why-is-udf-governments-stance-on-pm-shri-debated-in-kerala-explained/article71117264.ece)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 5. "Land Reforms 2.0" & asset privatization
 
@@ -84,6 +108,11 @@ it "Land Reforms 2.0."
 
 **Source:** [Privatisation, land deals, and gimmicks define Kerala revised budget, says ex-minister K. Rajan (The Hindu)](https://www.thehindu.com/news/national/kerala/privatisation-land-deals-and-gimmicks-define-kerala-revised-budget-says-ex-minister-k-rajan/article71125425.ece)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 6. Economy white paper backlash
 
 *June 2026*
@@ -94,6 +123,11 @@ its own white paper, calling the government's report a pretext for future
 welfare cuts.
 
 **Source:** [The UDF government's white paper on Kerala's economy: a diagnosis without an alternative (The Wire)](https://m.thewire.in/article/economy/the-udf-governments-white-paper-on-keralas-economy-a-diagnosis-without-an-alternative)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 7. Nipah maladministration & "Eranamkettavan" remarks
 
@@ -107,6 +141,11 @@ prompting an opposition walkout in the assembly.
 
 **Source:** [Opposition LDF walks out of assembly alleging govt failure in controlling disease spread (The Hindu)](https://www.thehindu.com/news/national/kerala/opposition-ldf-walks-out-of-assembly-alleging-govt-failure-in-controlling-disease-spread/article71132354.ece)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 8. Local body fund cuts
 
 *June 2026*
@@ -117,7 +156,13 @@ undermining decentralization and rural development funding.
 
 **Source:** [LDF, UDF spar over cut in local body plan funds (The New Indian Express)](https://www.newindianexpress.com/states/kerala/2026/Jul/02/ldf-udf-spar-over-cut-in-local-body-plan-funds)
 
+
+</div>
+
 ### July 2026
+
+
+<div class="entry-card" markdown="1">
 
 #### 9. Election Commissioner appointment controversy
 
@@ -129,6 +174,11 @@ alleged lack of consultation; KPCC general secretary P.M. Niyas publicly
 questioned the appointment, alleging Sangh Parivar affiliation.
 
 **Source:** [Another Satheesan appointment, another controversy in Kerala — this time from within Congress (The Print)](https://theprint.in/india/another-satheesan-appointment-another-controversy-in-kerala-this-time-from-within-congress/2974089/)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 10. "Bacardi tax" alcohol row
 
@@ -142,6 +192,11 @@ partners and prohibition advocates staged assembly walkouts over it.
 **Sources:**
 - [Cracks within Congress over Kerala CM Satheesan's budget proposals on liquor, mining (The New Indian Express)](https://www.newindianexpress.com/states/kerala/2026/Jun/23/cracks-within-congress-over-kerala-cm-satheesans-budget-proposals-on-liquor-mining)
 - [Kerala Assembly: LDF opposition walks out over low-alcohol liquor tax row (The Hindu)](https://www.thehindu.com/news/national/kerala/kerala-assembly-ldf-opposition-walks-out-over-low-alcohol-liquor-tax-row/article71136349.ece)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 11. Vizhinjam Port 49% stake sale to MSC
 
@@ -159,6 +214,11 @@ for saying it had not been consulted beforehand.
 - [Pinarayi Vijayan moves SEBI against Vizhinjam port stake sale](https://www.thehindubusinessline.com/economy/logistics/pinarayi-vijayan-moves-sebi-against-vizhinjam-port-stake-sale/article71188310.ece)
 - [Adani-MSC Vizhinjam port deal controversy, explained](https://www.thehindu.com/news/national/kerala/adani-msc-vizhinjam-port-deal-controversy-explained/article71177283.ece)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 12. Sabarimala judicial interference row
 
 *July 2026*
@@ -170,7 +230,13 @@ judiciary.
 
 **Source:** [Kerala government "not seeking confrontation" with judiciary, says Minister K. Muraleedharan (The Hindu)](https://www.thehindu.com/news/national/kerala/kerala-government-not-seeking-confrontation-with-judiciary-says-minister-k-muraleedharan/article71217047.ece)
 
+
+</div>
+
 ### August 2026
+
+
+<div class="entry-card" markdown="1">
 
 #### 13. Monazite beach sand mining corridor
 
@@ -186,6 +252,11 @@ such as the Adani Group at the expense of fishing communities.
 - [Protests brew over Kerala's proposal on private participation in mineral sand mining (The Hindu BusinessLine)](https://www.thehindubusinessline.com/news/national/protests-brew-over-keralas-proposal-on-private-participation-in-mineral-sand-mining/article71132105.ece)
 - [CM: budget has no plan to privatise mineral sand (Times of India)](https://timesofindia.indiatimes.com/city/thiruvananthapuram/cm-budget-has-no-plan-to-privatise-mineral-sand/articleshow/131976090.cms)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 14. Sunny Joseph backdoor appointment allegations
 
 *Reported in August 2026*
@@ -197,6 +268,11 @@ vacancies outside the normal PSC process.
 **Sources:**
 - [Kerala UDF: first 100 days (Frontline/The Hindu)](https://frontline.thehindu.com/politics/kerala-udf-first-100-days/article71377225.ece)
 - [Resigned to avoid controversy: Sunny Joseph defends Benny Thomas appointment, says no legal issues (The Hindu)](https://www.thehindu.com/news/national/kerala/resigned-to-avoid-controversy-sunny-joseph-defends-benny-thomas-appointment-says-no-legal-issues/article71075351.ece)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 15. Vehicle modification "false promises"
 
@@ -212,6 +288,11 @@ went on to mandate a ₹5,000 fine per alteration.
 - [CM's promise on vehicle modification in Kerala raises many doubts (The Hindu)](https://www.thehindu.com/news/national/kerala/cms-promise-on-vehicle-modification-in-kerala-raises-many-doubts/article71086039.ece)
 - [After HC order, Keralam MVD steps up crackdown on illegal vehicle modifications (The Hindu)](https://www.thehindu.com/news/national/kerala/after-hc-order-keralam-mvd-steps-up-crackdown-on-illegal-vehicle-modifications/article71387454.ece)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 16. Operation Toofan MDMA bust & CM's social media team row
 
 *August 2026*
@@ -225,12 +306,23 @@ personal social media team, and accused the CMO of pressuring Meta to
 suppress critical coverage. Satheesan acknowledged knowing the individuals
 but denied they were part of any official social media cell.
 
+{: .note }
+Operation Toofan itself — the wider anti-narcotics drive this arrest came
+out of — is tracked separately as entry #1 in
+[UDF Government Achievements](udf-government-achievements-2026.md).
+
 **Sources:**
 - [CPI(M) accuses Kerala CM V.D. Satheesan of making false claims on MDMA case accused (The Hindu)](https://www.thehindu.com/news/national/kerala/cpim-accuses-kerala-cm-vd-satheesan-of-making-false-claims-on-mdma-case-accused/article71341572.ece)
 - ["Knew them, but not their drug link": CM Satheesan on MDMA accused (The New Indian Express)](https://www.newindianexpress.com/states/kerala/2026/Aug/14/knew-them-but-not-their-drug-link-cm-satheesan-on-mdma-accused)
 - [Drug accused was in V.D. Satheesan's social media team, Left outfits' big charge (NDTV)](https://www.ndtv.com/india-news/drug-accused-was-in-vd-satheesans-social-media-team-left-outfits-big-charge-11896508)
 
+
+</div>
+
 ### September 2026
+
+
+<div class="entry-card" markdown="1">
 
 #### 17. Flood management private plane scandal
 
@@ -262,6 +354,11 @@ ultimately have to decide any actual liability:
   valuable gifts/hospitality from anyone with whom they have official
   dealings, and requires avoiding conflicts of interest.
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 18. KPCC reorganization factional deadlock
 
 *September 2026*
@@ -275,6 +372,11 @@ political crises.
 - [High command puts Kerala Congress rejig on hold (The New Indian Express)](https://www.newindianexpress.com/states/kerala/2026/Sep/15/high-command-puts-kerala-congress-rejig-on-hold)
 - [Political Affairs Committee members resent delay in revamping KPCC](https://www.thehindu.com/news/national/kerala/political-affairs-committee-members-resent-delay-in-revamping-kerala-pradesh-congress-committee/article71425086.ece)
 - [Mullappally Ramachandran urges Congress leadership to expedite KPCC reshuffle](https://www.thehindu.com/news/national/kerala/mullappally-ramachandran-urges-congress-leadership-to-expedite-kpcc-reshuffle/article71399900.ece)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 19. Minister's luxury car controversy
 
@@ -292,6 +394,11 @@ backlash.
 - [Shaji defends using friend's Range Rover as official vehicle](https://www.deccanchronicle.com/southern-states/kerala/keralam-minister-shaji-defends-using-friends-range-rover-as-official-vehicle-1988950)
 - [Minister K.M. Shaji faces controversy over use of loaned luxury car](https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 20. Monsoon power crisis & mismanagement
 
 *September 2026*
@@ -308,6 +415,11 @@ of advance planning.
 - [The six-hour squeeze: rising demand, falling electricity supply hit homes and small businesses in Keralam](https://thesouthfirst.com/keralam/donethe-six-hour-squeeze-rising-demand-falling-electricity-supply-hit-homes-and-small-businesses-in-keralam/)
 - [Keralam to work out long-term power plan amid shortage, says CM Satheesan](https://theprint.in/india/keralam-to-work-out-long-term-power-plan-amid-shortage-says-cm-satheesan/3051197/)
 
+
+</div>
+
+<div class="entry-card" markdown="1">
+
 #### 21. CMRL ledger & ED report probes
 
 *September 2026*
@@ -321,6 +433,11 @@ arrangement between the UDF and BJP to target Left leaders.
 - [Exalogic-CMRL payoff case: Keralam's UDF govt orders police inquiry into ED report seeking action against Pinarayi Vijayan (The Hindu)](https://www.thehindu.com/news/national/kerala/exalogic-cmrl-payoff-case-keralams-udf-govt-orders-police-inquiry-into-ed-report-seeking-action-against-pinarayi-vijayan/article71494724.ece)
 - [CPI(M) dares UDF government to investigate cabinet ministers named in CMRL ledger](https://www.thehindu.com/news/national/kerala/cpim-dares-udf-government-in-keralam-to-investigate-cabinet-ministers-named-in-cmrl-ledger/article71495388.ece)
 - [Exalogic-CMRL payoff case: CM says police inquiry not aimed at targeting anyone](https://www.thehindu.com/news/national/kerala/exalogic-cmrl-payoff-case-kerala-cm-says-police-inquiry-not-aimed-at-targeting-anyone-or-taking-revenge/article71499189.ece)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 22. Government hospital medicine shortage & private health lobby row
 
@@ -339,6 +456,11 @@ middlemen from the tender process.
 - [Pinarayi slams medicine shortage at govt hospitals, says UDF govt helping private-sector health lobby (The Hindu)](https://www.thehindu.com/news/national/kerala/pinarayi-slams-medicine-shortage-at-govt-hospitals-says-udf-govt-helping-private-sector-health-lobby/article71513484.ece)
 - [Medicine procurement: no middleman will be allowed, says Minister K. Muraleedharan (The New Indian Express)](https://www.newindianexpress.com/cities/thiruvananthapuram/2026/Sep/27/medicine-procurement-no-middleman-will-be-allowed-says-minister-k-muraleedharan)
 - [Keralam health minister hits back at Vijayan, claims health sector destroyed during LDF rule (ThePrint)](https://theprint.in/india/keralam-health-minister-hits-back-at-vijayan-claims-health-sector-destroyed-during-ldf-rule/3055025/)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
 
 #### 23. Thiruvananthapuram Zoo relocation & "Madison Square" project row
 
@@ -359,6 +481,9 @@ native wildlife near the new sites, and the loss of a tourism draw
 - [Drop move to relocate Thiruvananthapuram zoo: Chinchurani (The Hindu)](https://www.thehindu.com/news/national/kerala/drop-move-to-relocate-thiruvananthapuram-zoo-chinchurani/article71508479.ece)
 - [Animal welfare or misstep? Proposal to relocate Thiruvananthapuram zoo leads to debate (The News Minute)](https://www.thenewsminute.com/kerala/animal-welfare-or-misstep-proposal-to-relocate-thiruvananthapuram-zoo-leads-to-debate)
 - [Keralam team to study Vantara amid zoo row (The New Indian Express)](https://www.newindianexpress.com/states/kerala/2026/Sep/23/keralam-team-to-study-vantara-amid-zoo-row)
+
+
+</div>
 
 ## Sources / links
 
