@@ -141,30 +141,12 @@ election campaign.
 
 </div>
 
-<div class="entry-card" markdown="1">
-
-#### 5. SKOCH Gold Award for SC Development Department
-
-*June 20, 2026*
-
-Kerala's Scheduled Castes Development Department received the SKOCH Gold
-Award 2026 (Social Justice & Security category) for the PM AJAY–UNNATHI
-Upskilling Programme for SC communities. Note: PM AJAY is a central
-government scheme; the award recognizes the state department's
-implementation of it under the current administration, not a UDF-original
-programme.
-
-**Source:** [Kerala SC Development Department SKOCH Gold Award 2026 announcement (official department Facebook page)](https://www.facebook.com/KeralaSCDepartment/posts/the-scheduled-castes-development-department-government-of-kerala-has-been-honore/1338515925050576/)
-
-
-</div>
-
 ### August 2026
 
 
 <div class="entry-card" markdown="1">
 
-#### 6. Ration card backlog cleared
+#### 5. Ration card backlog cleared
 
 *Announced August 3, 2026*
 
@@ -182,7 +164,7 @@ departments to deliver visible welfare wins within their first 100 days.
 
 <div class="entry-card" markdown="1">
 
-#### 7. Mission Samudra & Vizhinjam EXIM operations
+#### 6. Mission Samudra & Vizhinjam EXIM operations
 
 *August 18 – September 1, 2026*
 
@@ -209,7 +191,7 @@ first export consignment — eight containers of packaged food and seafood
 
 <div class="entry-card" markdown="1">
 
-#### 8. Operation Toofan 2.0 — phase 2 launch
+#### 7. Operation Toofan 2.0 — phase 2 launch
 
 *September 27–28, 2026*
 
