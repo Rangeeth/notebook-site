@@ -157,3 +157,41 @@ code,
   padding: 1rem 1.5rem;
   margin: 1.25rem 0 2rem;
 }
+
+// Mobile search toggle button, added next to the hamburger in
+// _includes/components/sidebar.html (an override of the theme's own file).
+// Just the Docs' built-in mobile behavior only reveals search once the nav
+// drawer is opened; this makes it reachable on its own, top-right, right
+// next to the hamburger.
+@media (min-width: 50rem) {
+  #mobile-search-button {
+    display: none;
+  }
+}
+
+@media (max-width: 49.99rem) {
+  #main-header.main-header {
+    display: none;
+  }
+
+  #main-header.main-header.mobile-search-open {
+    display: block;
+    position: fixed;
+    inset: 0 0 auto 0;
+    z-index: 150;
+    background: $body-background-color;
+    border-bottom: 1px solid $border-color;
+    padding: 0.6rem 1rem;
+    box-shadow: 0 4px 12px rgba(20, 22, 31, 0.08);
+  }
+
+  #main-header.main-header.mobile-search-open .search-input-wrap {
+    height: auto;
+    box-shadow: none;
+  }
+
+  #main-header.main-header.mobile-search-open .search-results {
+    max-height: calc(100vh - 4.5rem);
+    overflow-y: auto;
+  }
+}
