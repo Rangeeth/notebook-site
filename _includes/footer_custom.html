@@ -4,6 +4,14 @@
   .side-bar + .main adjacency the desktop layout depends on).
 {%- endcomment -%}
 
+{% if site.data.build %}
+<p class="build-info">
+  Build
+  <a href="https://github.com/Rangeeth/notebook-site/commit/{{ site.data.build.sha }}">{{ site.data.build.short_sha }}</a>
+  (run #{{ site.data.build.run_number }}) · deployed {{ site.data.build.built_at }}
+</p>
+{% endif %}
+
 <div class="scroll-fab-group">
   <button id="scroll-top-btn" class="scroll-fab" aria-label="Back to top" type="button">
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5l-7 7M12 5l7 7M12 5v14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>

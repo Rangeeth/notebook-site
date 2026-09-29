@@ -28,6 +28,15 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Write build info
+        run: |
+          mkdir -p _data
+          cat > _data/build.yml <<EOF
+          sha: "${{ github.sha }}"
+          short_sha: "$(echo "${{ github.sha }}" | cut -c1-7)"
+          run_number: "${{ github.run_number }}"
+          built_at: "$(date -u +'%Y-%m-%d %H:%M UTC')"
+          EOF
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
