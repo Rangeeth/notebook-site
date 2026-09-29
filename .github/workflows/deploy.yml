@@ -32,10 +32,7 @@ jobs:
         run: |
           mkdir -p _data
           cat > _data/build.yml <<EOF
-          sha: "${{ github.sha }}"
-          short_sha: "$(echo "${{ github.sha }}" | cut -c1-7)"
-          run_number: "${{ github.run_number }}"
-          built_at: "$(date -u +'%Y-%m-%d %H:%M UTC')"
+          version: "$(date -u +'%Y%m%d.%H.%M').#${{ github.run_number }}"
           EOF
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"

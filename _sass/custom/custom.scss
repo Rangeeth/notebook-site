@@ -271,19 +271,5 @@ code,
   }
 }
 
-// Small, unobtrusive build stamp (see footer_custom.html) — lets you
-// confirm at a glance which deploy a page is actually serving.
-.build-info {
-  margin-top: 1.5rem;
-  font-size: 0.72rem;
-  color: #9aa0ab;
-
-  a {
-    color: inherit;
-    text-decoration: underline;
-  }
-
-  a:hover {
-    color: $link-color;
-  }
-}
+// Build version (see nav_footer_custom.html) is rendered via the theme's
+// own .site-footer / mobile-footer treatment — no custom styling needed.

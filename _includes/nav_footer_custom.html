@@ -1,0 +1,7 @@
+{%- comment -%}
+  Just the Docs' documented hook — replaces the default "This site uses
+  Just the Docs..." text. Rendered by the theme itself in .site-footer
+  (sidebar, desktop) and again in the mobile content footer, so it's
+  already positioned correctly on both — no extra CSS needed here.
+{%- endcomment -%}
+{% if site.data.build %}{{ site.data.build.version }}{% endif %}
