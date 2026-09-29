@@ -12,8 +12,9 @@
 <header class="side-bar">
   <div class="site-header">
     <a href="{{ '/' | relative_url }}" class="site-title lh-tight">{% include title.html %}</a>
-    <button id="mobile-search-button" class="site-button btn-reset" aria-label="Search" type="button">
-      <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-search"></use></svg>
+    <button id="mobile-search-button" class="site-button btn-reset" aria-label="Search" aria-expanded="false" type="button">
+      <svg viewBox="0 0 24 24" class="icon mobile-search-icon-open" aria-hidden="true"><use xlink:href="#svg-search"></use></svg>
+      <svg viewBox="0 0 24 24" class="icon mobile-search-icon-close" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
     </button>
     <button id="menu-button" class="site-button btn-reset" aria-label="Menu" aria-expanded="false">
       <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
@@ -45,11 +46,30 @@
     var searchInput = document.getElementById('search-input');
     if (!toggleBtn || !mainHeader) return;
 
-    toggleBtn.addEventListener('click', function () {
-      var isOpen = mainHeader.classList.toggle('mobile-search-open');
-      toggleBtn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-      if (isOpen && searchInput) {
+    function setOpen(open) {
+      mainHeader.classList.toggle('mobile-search-open', open);
+      toggleBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (open && searchInput) {
         setTimeout(function () { searchInput.focus(); }, 50);
+      }
+    }
+
+    toggleBtn.addEventListener('click', function (event) {
+      event.stopPropagation();
+      setOpen(!mainHeader.classList.contains('mobile-search-open'));
+    });
+
+    // Close on click/tap anywhere outside the search bar itself.
+    document.addEventListener('click', function (event) {
+      if (!mainHeader.classList.contains('mobile-search-open')) return;
+      if (mainHeader.contains(event.target) || toggleBtn.contains(event.target)) return;
+      setOpen(false);
+    });
+
+    // Close on Escape.
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && mainHeader.classList.contains('mobile-search-open')) {
+        setOpen(false);
       }
     });
   });

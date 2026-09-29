@@ -169,6 +169,19 @@ code,
   }
 }
 
+// Swap search icon <-> close (X) icon based on button state.
+#mobile-search-button .mobile-search-icon-close {
+  display: none;
+}
+
+#mobile-search-button[aria-expanded="true"] .mobile-search-icon-open {
+  display: none;
+}
+
+#mobile-search-button[aria-expanded="true"] .mobile-search-icon-close {
+  display: block;
+}
+
 @media (max-width: 49.99rem) {
   #main-header.main-header {
     display: none;
