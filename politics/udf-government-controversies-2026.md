@@ -339,6 +339,10 @@ provided by an undisclosed benefactor, while declining to name the sponsor.
 - [CM refuses to divulge details of individual who sponsored private flight](https://www.thehindu.com/news/national/kerala/keralam-cm-refuses-to-divulge-details-of-individual-who-sponsored-private-flight-defends-ministers-foreign-trips-shajis-use-of-friends-car/article71498998.ece)
 - ["Why not private favours?" asks Keralam CM Satheesan (The New Indian Express)](https://www.newindianexpress.com/states/kerala/2026/Sep/24/why-not-private-favours-asks-keralam-cm-satheesan)
 
+{: .note }
+This row expanded into a broader controversy over ministers' privately
+sponsored foreign trips — see entry #24.
+
 **Legal angle raised by critics:** commentators and opposition figures argued
 the non-disclosure touched on several statutes, while noting a court would
 ultimately have to decide any actual liability:
@@ -394,6 +398,10 @@ backlash.
 - [Minister returns friend's luxury car amid row](https://m.rediff.com/news/report/keralam-minister-returns-friends-luxury-car-amid-row/20260919.htm)
 - [Shaji defends using friend's Range Rover as official vehicle](https://www.deccanchronicle.com/southern-states/kerala/keralam-minister-shaji-defends-using-friends-range-rover-as-official-vehicle-1988950)
 - [Minister K.M. Shaji faces controversy over use of loaned luxury car](https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece)
+
+{: .note }
+Shaji's Bulgaria trip also came up as part of the wider ministers'
+sponsored-foreign-trips row — see entry #24.
 
 
 </div>
@@ -482,6 +490,36 @@ native wildlife near the new sites, and the loss of a tourism draw
 - [Drop move to relocate Thiruvananthapuram zoo: Chinchurani (The Hindu)](https://www.thehindu.com/news/national/kerala/drop-move-to-relocate-thiruvananthapuram-zoo-chinchurani/article71508479.ece)
 - [Animal welfare or misstep? Proposal to relocate Thiruvananthapuram zoo leads to debate (The News Minute)](https://www.thenewsminute.com/kerala/animal-welfare-or-misstep-proposal-to-relocate-thiruvananthapuram-zoo-leads-to-debate)
 - [Keralam team to study Vantara amid zoo row (The New Indian Express)](https://www.newindianexpress.com/states/kerala/2026/Sep/23/keralam-team-to-study-vantara-amid-zoo-row)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
+
+#### 24. Ministers' sponsored foreign trips row
+
+*September 2026*
+
+Scrutiny over CM Satheesan's chartered flight (entry #17) widened into a
+broader row over ministers accepting privately sponsored foreign travel.
+Home Minister Ramesh Chennithala travelled to the US with family — reported
+at roughly ₹8 lakh per person one-way — to attend a longtime associate's
+son's wedding in Chicago, sponsored by "a friend." Sports Minister
+O.J. Janeesh faced questions over overseas trips taken with his wife,
+which he said were personal time paid for by inviting organizations, not
+the state. Local Self-Government Minister K.M. Shaji's trip to Bulgaria
+was raised alongside his separate Range Rover controversy (entry #19).
+BJP's K. Surendran and CPI(M) figures demanded disclosure of who funded
+the trips, framing it as a propriety and conflict-of-interest question;
+Satheesan defended the trips as his own idea, meant to let ministers study
+practices abroad to bring back ideas for Kerala, with no cost to the state.
+
+**Sources:**
+- [A chartered flight, 3 foreign trips and a Range Rover put UDF govt under scrutiny (The Federal)](https://thefederal.com/category/states/south/keralam/satheesan-chartered-flight-range-rover-chennithala-foreign-trip-257456)
+- [Kerala sponsorship row: Satheesan defends private jet and luxury car use (Deccan Herald)](https://www.deccanherald.com/india/keralam/sponsorship-snowballs-into-a-major-row-as-satheesan-defends-private-aircraft-and-luxury-car-use-4156993)
+- [Kerala ministers accepting private hospitality: CM's defence raises questions of propriety (The News Minute)](https://www.thenewsminute.com/kerala/kerala-ministers-accepting-private-hospitality-cms-defence-raises-questions-of-propriety)
+- [Reveal who paid for ministers' trips, people will decide if it's "thantha vibe" or "kutti vibe": BJP's K Surendran (Onmanorama)](https://www.onmanorama.com/news/kerala/2026/09/22/reveal-who-paid-for-ministers-trips-people-will-decide-the-vibe-says-bjp-k-surendran.html)
+- ["Travelled at my own expense, not catering to 'thantha vibe'": Minister O.J. Janeesh (Onmanorama)](https://www.onmanorama.com/news/kerala/2026/09/21/travelled-at-my-own-expense-not-catering-to-thantha-vibe-minister-o-j-janeesh.html)
 
 
 </div>
