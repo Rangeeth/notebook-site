@@ -22,12 +22,59 @@ assembly election — the counterpart to
 
 ## Notes
 
+### May 2026
+
+
+<div class="entry-card" markdown="1">
+
+#### 1. India's first cabinet-level Artificial Intelligence portfolio
+
+*May 20–21, 2026*
+
+In its first cabinet portfolio allocation, the incoming government created
+a dedicated Artificial Intelligence portfolio at cabinet level — reported
+as a first for any Indian state — assigning it to P.K. Kunhalikutty
+alongside his IT and Industries & Commerce portfolios. The stated aim is
+to push AI-based governance, innovation, and technology-driven development
+across public services, industry, and the startup ecosystem.
+
+**Sources:**
+- [Kerala becomes first state in India to get AI ministry; PK Kunhalikutty gets charge (Khaleej Times)](https://www.khaleejtimes.com/world/asia/kerala-first-india-state-ai-ministry-pk-kunhalikutty)
+- [Kerala govt forms first-ever AI Ministry; PK Kunhalikutty gets charge (Business Standard)](https://www.business-standard.com/india-news/kerala-govt-forms-first-ever-ai-ministry-pk-kunhalikutty-gets-charge-126052100058_1.html)
+- [Kerala launched India's first dedicated Artificial Intelligence portfolio (Drishti IAS)](https://www.drishtiias.com/state-pcs-current-affairs/kerala-launched-indias-first-dedicated-artificial-intelligence-portfolio)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
+
+#### 2. ASHA and anganwadi worker honorarium hike
+
+*Late May 2026*
+
+At its first cabinet meeting, the government raised the monthly honorarium
+for ASHA (accredited social health activist) workers by ₹3,000 (from
+₹9,000 to ₹12,000), and by ₹1,000 for anganwadi workers and pre-primary
+school ayahs. ASHA workers had staged a round-the-clock protest through
+2025 demanding a raise to ₹21,000 from the previous LDF government, so the
+hike is real but falls well short of that original demand. Workers
+reportedly received the increased amount for the first time around Onam
+(late August 2026).
+
+**Sources:**
+- [Keralam government approves free KSRTC travel for women and Rs 3,000 raise for ASHA workers (The News Mill)](https://thenewsmill.com/2026/05/keralam-government-approves-free-ksrtc-travel-for-women-and-rs-3000-raise-for-asha-workers/)
+- [Kerala's UDF govt kicks off with welfare blitz: pay hikes for ASHA, teachers, school cooks (ThePrint)](https://theprint.in/india/governance/keralas-udf-govt-kicks-off-with-welfare-blitz-pay-hikes-for-asha-teachers-school-cooks/2934417/)
+- [ASHAs get honorarium, festival allowance ahead of Onam for first time (Onmanorama)](https://www.onmanorama.com/news/kerala/2026/08/25/ashas-get-honorarium-festival-allowance-ahead-of-onam-for-first-time-minister-muraleedharan.html)
+
+
+</div>
+
 ### June 2026
 
 
 <div class="entry-card" markdown="1">
 
-#### 1. Operation Toofan — statewide anti-narcotics drive
+#### 3. Operation Toofan — statewide anti-narcotics drive
 
 *June 2026 – ongoing*
 
@@ -72,7 +119,7 @@ team. See entry #16 in [UDF Government Controversies](udf-government-controversi
 
 <div class="entry-card" markdown="1">
 
-#### 2. Priyadarshini free travel scheme for women
+#### 4. Priyadarshini free travel scheme for women
 
 *June 15, 2026 – ongoing*
 
@@ -96,7 +143,7 @@ election campaign.
 
 <div class="entry-card" markdown="1">
 
-#### 3. SKOCH Gold Award for SC Development Department
+#### 5. SKOCH Gold Award for SC Development Department
 
 *June 20, 2026*
 
@@ -117,7 +164,25 @@ programme.
 
 <div class="entry-card" markdown="1">
 
-#### 4. Mission Samudra & Vizhinjam EXIM operations
+#### 6. Ration card backlog cleared
+
+*Announced August 3, 2026*
+
+The Food and Civil Supplies Department issued 73,024 Priority ration cards
+and 2,000 Antyodaya Anna Yojana (AAY) cards within the government's first
+100 days, clearing a long-pending backlog and beating its own 50,000-card
+target by roughly 23,000, which the department attributed to faster
+scrutiny and processing. Framed as part of the CM's directive for
+departments to deliver visible welfare wins within their first 100 days.
+
+**Source:** [Ahead of Onam, Kerala clears long-pending ration card backlog (NewKerala)](https://www.newkerala.com/news/a/ahead-onam-kerala-clears-long-pending-ration-card-147.htm)
+
+
+</div>
+
+<div class="entry-card" markdown="1">
+
+#### 7. Mission Samudra & Vizhinjam EXIM operations
 
 *August 18 – September 1, 2026*
 
@@ -144,7 +209,7 @@ first export consignment — eight containers of packaged food and seafood
 
 <div class="entry-card" markdown="1">
 
-#### 5. Operation Toofan 2.0 — phase 2 launch
+#### 8. Operation Toofan 2.0 — phase 2 launch
 
 *September 27–28, 2026*
 

@@ -536,6 +536,50 @@ practices abroad to bring back ideas for Kerala, with no cost to the state.
 
 </div>
 
+<div class="entry-card" markdown="1">
+
+#### 25. Ration rice quality lapses
+
+*September 2026*
+
+Two separate ration-rice quality incidents surfaced. In Muvattupuzha, CITU
+headload workers found worms in rice sacks while unloading at a Vazhakulam
+ration shop on September 9; more turned up the next day at a nearby shop
+in Kalloorkkaadit. Both were traced to the Trikkalathur NFSA godown,
+supplied by Perumbavoor-based companies back in July — preliminary
+assessment blamed excess moisture/inadequate drying. A Food Commission
+member ordered 835 of roughly 1,400 affected sacks returned, with the
+remainder held for expert quality checks before distribution; CITU
+activists protested, calling it a serious lapse. Separately, in Kollam,
+7,166 kg of rice at two ration shops near Thenmala — serving a
+predominantly Scheduled Tribe population — was assessed on July 13 as
+deteriorated and insect-infested, fit only for cattle/poultry feed. After
+the licensee cited personal illness at an August 4 hearing, a second
+inspection on August 10 by the same quality-control official reversed
+course, clearing 4,850 kg for human distribution after washing and
+cleaning at a mill; reporting alleged the reversal followed "intervention
+by higher-ups," bypassing the shop suspension that would normally follow
+such a finding.
+
+{: .note }
+A single Onmanorama report described a comparable worm/moth infestation at
+a ration shop in Adimali, Idukki, under the previous LDF government — its
+URL is dated August 2019, but the page itself displays "Published:
+December 13, 2020," so even the report's own date is unclear. Despite
+checking several other outlets (The Hindu, New Indian Express, Deccan
+Herald), I couldn't find independent corroboration of it either, so treat
+this as a single-sourced, date-uncertain data point, not an established
+fact.
+
+**Sources:**
+- [Ration rice: worm infestation sparks action at Muvattupuzha shop (Asianet News)](https://newsable.asianetnews.com/kerala-news/worms-found-in-rice-at-muvattupuzha-ration-shop-entire-stock-returned-articleshow-gal8b44)
+- [Worms found in ration rice for second day; godown inspected, 835 bags to be returned (Janmabhumi)](https://janmabhumi.in/2026/09/10/3617738/local-news/ernakulam/worms-found-in-ration-rice-for-second-day-godown-inspected-835-bags-of-to-be-returned/)
+- ["Cattle class": ration rice declared cattle feed, cleared for human consumption in Kerala (Onmanorama)](https://www.onmanorama.com/news/kerala/2026/09/29/cattle-class-ration-rice-declared-cattle-feed-cleared-for-human-consumption-in-kerala.html)
+- [Sale of adulterated rice rampant in Idukki, 2019 (Onmanorama)](https://www.onmanorama.com/news/kerala/2019/08/01/sale-of-adulterated-rice-rampant-in-idukki.html)
+
+
+</div>
+
 ## Sources / links
 
 See per-entry sources above.
