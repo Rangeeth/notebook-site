@@ -56,15 +56,18 @@ At its first cabinet meeting, the government raised the monthly honorarium
 for ASHA (accredited social health activist) workers by ₹3,000 (from
 ₹9,000 to ₹12,000), and by ₹1,000 for anganwadi workers and pre-primary
 school ayahs. ASHA workers had staged a round-the-clock protest through
-2025 demanding a raise to ₹21,000 from the previous LDF government, so the
-hike is real but falls well short of that original demand. Workers
-reportedly received the increased amount for the first time around Onam
-(late August 2026).
+2025 demanding a raise to ₹21,000; the outgoing LDF government had already
+given a ₹1,000 pre-election hike (₹8,000 → ₹9,000) that October, so UDF's
+₹3,000 addition is a genuine further increase, not the whole gap being
+closed for the first time — and it still falls well short of the original
+₹21,000 demand. Workers reportedly received the increased amount for the
+first time around Onam (late August 2026).
 
 **Sources:**
 - [Keralam government approves free KSRTC travel for women and Rs 3,000 raise for ASHA workers (The News Mill)](https://thenewsmill.com/2026/05/keralam-government-approves-free-ksrtc-travel-for-women-and-rs-3000-raise-for-asha-workers/)
 - [Kerala's UDF govt kicks off with welfare blitz: pay hikes for ASHA, teachers, school cooks (ThePrint)](https://theprint.in/india/governance/keralas-udf-govt-kicks-off-with-welfare-blitz-pay-hikes-for-asha-teachers-school-cooks/2934417/)
 - [ASHAs get honorarium, festival allowance ahead of Onam for first time (Onmanorama)](https://www.onmanorama.com/news/kerala/2026/08/25/ashas-get-honorarium-festival-allowance-ahead-of-onam-for-first-time-minister-muraleedharan.html)
+- [Polls on horizon, Pinarayi govt makes big moves — hikes in pension, ASHA workers' honorarium (ThePrint)](https://theprint.in/politics/polls-on-horizon-pinarayi-govt-makes-big-moves-hikes-in-pension-asha-workers-honorarium-new-schemes/2773403/)
 
 
 </div>
@@ -162,36 +165,12 @@ departments to deliver visible welfare wins within their first 100 days.
 
 </div>
 
-<div class="entry-card" markdown="1">
-
-#### 6. Mission Samudra & Vizhinjam EXIM operations
-
-*August 18 – September 1, 2026*
-
-CM Satheesan launched Mission Samudra, a ₹400 crore initiative to build
-Kerala into a port-led maritime economy — integrating its two
-international ports, a container freight station, and 18 minor ports,
-alongside a planned shipbuilding centre and an International Maritime
-Museum. It launched at Vizhinjam International Seaport on August 18,
-alongside the port's first EXIM (export-import) cargo operations going
-live. On September 1, the container ship MSC Beryl carried Vizhinjam's
-first export consignment — eight containers of packaged food and seafood
-— opening a direct Kerala-to-Europe trade route, albeit a small one so far.
-
-**Sources:**
-- [Mission Samudra, Vizhinjam EXIM ops launched: Thiruvananthapuram port to spearhead Kerala's maritime transformation (The Week)](https://www.theweek.in/news/maritime/2026/08/18/mission-samudra-kerala-port-trivandrum-vizhinjam.html)
-- [Mission Samudra to drive Kerala's maritime economy, says CM Satheesan (Maritime Gateway)](https://www.maritimegateway.com/mission-samudra-to-drive-keralas-maritime-economy-says-cm-satheesan/)
-- [Vizhinjam port to begin full export-import operations on August 18 (The News Mill)](https://thenewsmill.com/2026/08/vizhinjam-international-seaport-to-begin-full-export-import-operations-on-august-18/)
-
-
-</div>
-
 ### September 2026
 
 
 <div class="entry-card" markdown="1">
 
-#### 7. Operation Toofan 2.0 — phase 2 launch
+#### 6. Operation Toofan 2.0 — phase 2 launch
 
 *September 27–28, 2026*
 
