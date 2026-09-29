@@ -36,9 +36,21 @@ Last updated 2026-09-27.
 Before the assembly election results were declared, opposition parties
 alleged that V.D. Satheesan took a private chartered flight to Mangalore
 for undisclosed meetings with senior NDA and Adani Group figures, prompting
-collusion accusations.
+collusion accusations. Reported specifics: a passenger manifest for a
+May 1, 2026 charter from Kochi to Mangaluru listed just two passengers —
+Satheesan and K. Rejikumar. In Mangaluru, Satheesan reportedly met JD(S)
+leaders (the BJP's Karnataka ally) at a reception, allegedly without
+informing the Karnataka Congress leadership beforehand, as is customary
+for an out-of-state leader's visit; photos of the meeting later
+circulated on social media. One outlet additionally reported that
+Rejikumar, his co-passenger, had separately been questioned by the SIT
+investigating the Sabarimala temple gold theft case (the same case behind
+entry #3) — a claim carried by a single source and not independently
+corroborated here.
 
-**Source:** [UDF faces criticism over ministers' alleged foreign junkets, Keralam CM's private-plane travel (The Hindu)](https://www.thehindu.com/news/national/kerala/udf-faces-criticism-over-ministers-alleged-foreign-junkets-keralam-cms-private-plane-travel/article71494511.ece)
+**Sources:**
+- [UDF faces criticism over ministers' alleged foreign junkets, Keralam CM's private-plane travel (The Hindu)](https://www.thehindu.com/news/national/kerala/udf-faces-criticism-over-ministers-alleged-foreign-junkets-keralam-cms-private-plane-travel/article71494511.ece)
+- [VD Satheesan reportedly meets NDA leaders in Karnataka ahead of Kerala poll results (Free Press Journal)](https://www.freepressjournal.in/politics/vd-satheesan-reportedly-meets-nda-leaders-in-karnataka-ahead-of-kerala-poll-results-video)
 
 
 </div>
