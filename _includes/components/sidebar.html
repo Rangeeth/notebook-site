@@ -37,9 +37,14 @@
     This site uses <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
   {% endif %}
   </div>
-</header>
 
-<script>
+  {%- comment -%}
+    Kept inside <header>, not after it — some of the theme's own CSS uses
+    the ".side-bar + .main" adjacent-sibling selector for core desktop
+    layout (centering, max-width). A script tag between </header> and
+    .main would break that adjacency and silently break the whole layout.
+  {%- endcomment -%}
+  <script>
   document.addEventListener('DOMContentLoaded', function () {
     var toggleBtn = document.getElementById('mobile-search-button');
     var mainHeader = document.getElementById('main-header');
@@ -73,4 +78,5 @@
       }
     });
   });
-</script>
+  </script>
+</header>
