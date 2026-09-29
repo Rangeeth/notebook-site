@@ -10,7 +10,3 @@ has_children: true
 Notes on political developments, policy, and things I'm trying to think
 through more carefully. These are personal notes, not analysis or advice —
 expect them to be revised as my understanding changes.
-
-Notes:
-- [UDF Government Controversies — Kerala (2026)](udf-government-controversies-2026.html)
-- [UDF Government Achievements — Kerala (2026)](udf-government-achievements-2026.html)
