@@ -1,0 +1,49 @@
+{%- comment -%}
+  Just the Docs' documented hook, included once per page inside
+  components/footer.html (deep in .main-content, unrelated to the
+  .side-bar + .main adjacency the desktop layout depends on).
+{%- endcomment -%}
+
+<div class="scroll-fab-group">
+  <button id="scroll-top-btn" class="scroll-fab" aria-label="Back to top" type="button">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5l-7 7M12 5l7 7M12 5v14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+  <button id="scroll-bottom-btn" class="scroll-fab" aria-label="Skip to bottom" type="button">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19l-7-7M12 19l7-7M12 19V5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+</div>
+
+<script>
+  (function () {
+    var topBtn = document.getElementById('scroll-top-btn');
+    var bottomBtn = document.getElementById('scroll-bottom-btn');
+    if (!topBtn || !bottomBtn) return;
+
+    function nearTop() {
+      return window.scrollY < 300;
+    }
+    function nearBottom() {
+      return window.innerHeight + window.scrollY >= document.body.scrollHeight - 300;
+    }
+    function isScrollable() {
+      return document.body.scrollHeight > window.innerHeight + 100;
+    }
+
+    function update() {
+      var scrollable = isScrollable();
+      topBtn.classList.toggle('is-visible', scrollable && !nearTop());
+      bottomBtn.classList.toggle('is-visible', scrollable && !nearBottom());
+    }
+
+    topBtn.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    bottomBtn.addEventListener('click', function () {
+      window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+    });
+
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  })();
+</script>

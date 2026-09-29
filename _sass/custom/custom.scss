@@ -211,3 +211,62 @@ code,
     overflow-y: auto;
   }
 }
+
+// Floating "back to top" / "skip to bottom" buttons (see footer_custom.html).
+.scroll-fab-group {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  z-index: 140;
+}
+
+.scroll-fab {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 999px;
+  background: $body-background-color;
+  border: 1px solid $border-color;
+  box-shadow: 0 2px 8px rgba(20, 22, 31, 0.12);
+  color: $link-color;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  opacity: 0;
+  transform: translateY(8px);
+  pointer-events: none;
+  transition: opacity 0.15s ease, transform 0.15s ease, background 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.scroll-fab svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.scroll-fab.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.scroll-fab:hover {
+  background: $sidebar-color;
+  border-color: $link-color;
+}
+
+@media (max-width: 49.99rem) {
+  .scroll-fab-group {
+    right: 1rem;
+    bottom: 1rem;
+  }
+
+  .scroll-fab {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}
