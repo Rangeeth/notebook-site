@@ -185,13 +185,16 @@ code,
     box-shadow: 0 4px 12px rgba(20, 22, 31, 0.08);
   }
 
+  // .search-input is `position: absolute; height: 100%` inside this
+  // wrapper — it needs an explicit height here, not "auto" (which
+  // collapses to 0 since its only child is absolutely positioned).
   #main-header.main-header.mobile-search-open .search-input-wrap {
-    height: auto;
+    height: 3rem;
     box-shadow: none;
   }
 
   #main-header.main-header.mobile-search-open .search-results {
-    max-height: calc(100vh - 4.5rem);
+    max-height: calc(100vh - 8rem) !important;
     overflow-y: auto;
   }
 }
