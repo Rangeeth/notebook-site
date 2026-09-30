@@ -36,6 +36,7 @@ each other — rather than a chronological log of events.
 <div class="entry-card" markdown="1">
 
 #### 1. Media visibility and identity protection for people who use drugs
+{: #entry-1 }
 
 *Ongoing since June 2026*
 
@@ -99,6 +100,7 @@ about Toofan itself.
 <div class="entry-card" markdown="1">
 
 #### 3. Toofan Care: treatment capacity vs. arrest volume
+{: #entry-3 }
 
 *Ongoing since June 2026*
 
@@ -121,6 +123,7 @@ sourced version of the "Toofan Care isn't keeping pace" criticism.
 <div class="entry-card" markdown="1">
 
 #### 4. Custody and hospital access for arrested users
+{: #entry-4 }
 
 *Ongoing since June 2026*
 
@@ -149,6 +152,7 @@ withdrawal.
 <div class="entry-card" markdown="1">
 
 #### 5. Peddlers vs. users: who is actually being arrested
+{: #entry-5 }
 
 *Ongoing since June 2026*
 
@@ -170,6 +174,7 @@ low-level dealers.
 <div class="entry-card" markdown="1">
 
 #### 6. Official rhetoric on reform vs. the execution gap
+{: #entry-6 }
 
 *September 2026*
 
@@ -179,8 +184,8 @@ three-pronged strategy run in parallel: strict enforcement and
 imprisonment for traffickers, identifying people affected by addiction,
 and rehabilitating them — "We want to rehabilitate the people who were
 actually using drugs." The gap isn't in the stated policy; it's that this
-distinction doesn't yet show up cleanly in outcomes (see entries #3–#5
-above) — a say–do gap rather than the government rejecting a
+distinction doesn't yet show up cleanly in outcomes (see entries
+[#3](#entry-3)–[#5](#entry-5) above) — a say–do gap rather than the government rejecting a
 reform-over-punishment framing outright.
 
 **Sources:**
@@ -244,19 +249,20 @@ inaccessible" hypothesis.
 *Ongoing since June 2026*
 
 The government's stated position is explicitly parallel, not sequential —
-Chennithala's three-pronged strategy (entry #6) runs enforcement,
+Chennithala's three-pronged strategy ([entry #6](#entry-6)) runs enforcement,
 identification, and rehabilitation together, and Toofan 2.0 added its
 grama-sabha/Kudumbashree community layer and expanded hospital
 partnerships alongside continued raids, not after them. In practice,
 though, independent reporting shows the actual weighting skews heavily
 toward enforcement: arrest and seizure numbers are large, tracked in real
 time, and heavily publicized, while the care and rehabilitation side lags
-far behind in measured throughput (entry #3) and isn't reported with
+far behind in measured throughput ([entry #3](#entry-3)) and isn't reported with
 anything like the same rigor. So the honest answer to "which should come
 first, or how should they be weighted" is: officially parallel, actually
 enforcement-weighted — and that one gap in measurement and
-infrastructure build-out is the common root of the targeting (#5),
-capacity (#3–#4), and visibility (#1) criticisms above, more than any of
+infrastructure build-out is the common root of the targeting
+([#5](#entry-5)), capacity ([#3](#entry-3)–[#4](#entry-4)), and visibility
+([#1](#entry-1)) criticisms above, more than any of
 them being a separate, unrelated failure.
 
 **Sources:**
