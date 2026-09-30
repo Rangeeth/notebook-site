@@ -11,11 +11,13 @@ nav_order: 3
 
 Operation Toofan is the UDF government's statewide anti-narcotics drive,
 launched June 2, 2026 and now in its second phase ("Toofan 2.0," from
-September 28). The launch and headline results are tracked as entries #3
-and #6 in [UDF Government Achievements](achievements/2026.html);
-one arrest arising from it is tracked as a controversy in entry #16 of
-[UDF Government Controversies](controversies/2026.html). This
-page is a separate, cross-checked look at recurring criticism of the
+September 28). The launch and headline results are tracked as
+[entry #3](achievements/2026.html#entry-3) and
+[entry #6](achievements/2026.html#entry-6) in UDF Government
+Achievements; one arrest arising from it is tracked as a controversy in
+[entry #16](controversies/2026.html#entry-16) of UDF
+Government Controversies. This page is a separate, cross-checked look at
+recurring criticism of the
 operation's design and execution — privacy, treatment capacity, targeting,
 and how enforcement and rehabilitation are actually being weighted against
 each other — rather than a chronological log of events.
