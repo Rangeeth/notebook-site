@@ -7,4 +7,6 @@ nav_order: 1
 
 # Keralam
 
-Notes on Kerala state politics.
+{% include last_updated.html %}
+
+Notes on Keralam state politics.

@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -34,6 +36,25 @@ jobs:
           cat > _data/build.yml <<EOF
           version: "$(date -u +'%Y%m%d.%H.%M').#${{ github.run_number }}"
           EOF
+      - name: Write last-updated dates
+        run: |
+          # One "<page path>": "<date>" line per page. A note's date is its own
+          # last commit; an index.md (a section page) takes the newest commit
+          # anywhere in its folder, and the home page covers index.md + politics/.
+          mkdir -p _data
+          : > _data/last_updated.yml
+          git ls-files '*.md' | grep -v '^README.md$' | while read -r p; do
+            if [ "$p" = "index.md" ]; then
+              scope="index.md politics"
+            elif [ "$(basename "$p")" = "index.md" ]; then
+              scope="$(dirname "$p")"
+            else
+              scope="$p"
+            fi
+            d=$(git log -1 --format=%cs -- $scope)
+            [ -n "$d" ] && printf '"%s": "%s"\n' "$p" "$d" >> _data/last_updated.yml
+          done
+          cat _data/last_updated.yml
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:

@@ -7,6 +7,8 @@ description: "A curated, public counterpart to a private personal notebook."
 
 # Notebook
 
+{% include last_updated.html %}
+
 A curated, public counterpart to a private personal notebook — the notes
 worth sharing, published separately from day-to-day working notes.
 
@@ -14,7 +16,7 @@ worth sharing, published separately from day-to-day working notes.
   <a class="topic-card" href="{{ '/politics/' | relative_url }}">
     <span class="topic-card-icon">🗳️</span>
     <span class="topic-card-title">Politics</span>
-    <span class="topic-card-desc">Political developments, policy, and things I'm thinking through.</span>
+    <span class="topic-card-desc">Political developments, policy, and open questions.</span>
   </a>
 </div>
 

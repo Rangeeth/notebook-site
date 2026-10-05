@@ -7,4 +7,6 @@ nav_order: 2
 
 # UDF Government Controversies
 
-Controversies and criticism directed at Kerala's UDF government, by year.
+{% include last_updated.html %}
+
+Controversies and criticism directed at Keralam's UDF government, by year.

@@ -7,6 +7,8 @@ nav_order: 3
 # Operation Toofan — Anti-Narcotics Drive (Keralam)
 {: .no_toc }
 
+{% include last_updated.html %}
+
 ## Summary
 
 Operation Toofan is the UDF government's statewide anti-narcotics drive,

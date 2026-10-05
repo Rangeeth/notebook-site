@@ -7,4 +7,6 @@ nav_order: 1
 
 # UDF Government Achievements
 
-Notable initiatives and results from Kerala's UDF government, by year.
+{% include last_updated.html %}
+
+Notable initiatives and results from Keralam's UDF government, by year.
