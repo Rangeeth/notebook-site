@@ -97,6 +97,19 @@ code,
   margin-top: 0;
 }
 
+// "Last updated <date>" meta line under a page title — a small standalone
+// badge, not part of the summary text.
+.last-updated {
+  display: inline-block;
+  font-size: 0.78rem;
+  color: $search-result-preview-color;
+  background: $sidebar-color;
+  border: 1px solid $border-color;
+  padding: 3px 12px;
+  border-radius: 999px;
+  margin: 0 0 1.25rem;
+}
+
 // The italic "*Month 2026*" line right under the heading acts as a date
 // badge, not body copy.
 .entry-card > p:first-of-type em:only-child {
