@@ -17,7 +17,7 @@ September 28). The launch and headline results are tracked as
 [entry #3](achievements/2026.html#operation-toofan-launch) and
 [entry #6](achievements/2026.html#operation-toofan-2) in UDF Government
 Achievements; one arrest arising from it is tracked as a controversy in
-[entry #16](controversies/2026.html#toofan-mdma-bust) of UDF
+[entry #19](controversies/2026.html#toofan-mdma-bust) of UDF
 Government Controversies. This page is a separate, cross-checked look at
 recurring criticism of the
 operation's design and execution — privacy, treatment capacity, targeting,
@@ -55,7 +55,8 @@ migrant settlements and labour camps were being filmed and circulated
 widely, with the filming itself framed as "civic responsibility" —
 raising concerns about the dignity of a group that is economically
 essential but socially peripheral and poorly placed to contest how it's
-portrayed. That analysis is the only source found for this specific point. No reporting was found of a specific policy proposal to keep
+portrayed. That analysis is the only source found for this specific point.
+No reporting was found of a specific policy proposal to keep
 referred users' identities confidential (e.g. anonymized rehab referral) —
 that appears to be a real gap rather than a live policy debate.
 
@@ -114,7 +115,9 @@ about Toofan itself.
 Toofan Care, the rehabilitation arm, involves around 35 hospitals (a Home
 Department/government claim repeated by ThePrint/PTI, Daijiworld and The
 Tribune). On September 28, Home Minister Chennithala said more than 100
-people had been admitted to hospitals under it — a government figure that couldn't be verified independently — while the same round of PTI reporting put
+people had been admitted to hospitals under it — a government figure that
+couldn't be verified independently — while the same round of PTI reporting
+put
 arrests at 12,584 as of September 26 (earlier police figures: 11,776
 arrests in 10,918 cases as of September 17, per Asianet, Times Kerala and
 The News Minute). That isn't a like-for-like ratio, since not everyone
@@ -185,7 +188,9 @@ single-sourced, and another count differs: a PTI report on August 31,
 quoting nodal officer IG Putta Vimaladithya, gave 165 commercial-quantity
 and 395 intermediate-quantity cases. It also isn't a full breakdown: total
 registered cases were about 9,981 by September 4 (Konni Vartha), so the
-3,127 small-quantity cases are roughly a third of all cases, and no breakdown of the rest was found. What the figure supports is that small-quantity
+3,127 small-quantity cases are roughly a third of all cases, and no
+breakdown of the rest was found. What the figure supports is that
+small-quantity
 cases far outnumber commercial-quantity ones — a concrete version of the
 "target peddlers, not users" concern — but not that arrests are
 "dominated" by possession cases overall. The operation's stated goal, per
@@ -215,7 +220,8 @@ the people who were actually using drugs." (The Tribune renders it slightly
 differently, so treat the quote as approximate; "three-pronged" and "reform,
 not shame" are this page's framing, not his.) The gap isn't in the stated policy; it's that this
 distinction doesn't yet show up cleanly in outcomes (see entries
-[#3](#toofan-care-capacity)–[#5](#peddlers-vs-users) above) — a say–do gap rather than the government rejecting a
+[#3](#toofan-care-capacity)–[#5](#peddlers-vs-users) above) — a say–do gap
+rather than the government rejecting a
 reform-over-punishment framing outright.
 
 **Sources:**
@@ -292,7 +298,8 @@ anything like the same rigor. So the honest answer to "which should come
 first, or how should they be weighted" is: officially parallel, actually
 enforcement-weighted — and that one gap in measurement and
 infrastructure build-out is the common root of the targeting
-([#5](#peddlers-vs-users)), capacity ([#3](#toofan-care-capacity)–[#4](#custody-access)), and visibility
+([#5](#peddlers-vs-users)), capacity
+([#3](#toofan-care-capacity)–[#4](#custody-access)), and visibility
 ([#1](#media-visibility)) criticisms above, more than any of
 them being a separate, unrelated failure.
 
